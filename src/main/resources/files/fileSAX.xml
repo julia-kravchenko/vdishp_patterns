@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<country>
+    <name>Shop</name>
+    <regions>
+        <region city="Минск">
+            <publications>
+
+                <book title="sax book" numberOfPages="163" publishingHouse="Питер"
+                      yearOfPublishing="2015" authors="Julia test"/>
+
+                <magazine title="fashion new" numberOfPages="48" publishingHouse="АСТ"
+                          yearOfPublishing="2013" chiefEditors="test editor"/>
+
+                <book title="sax2" numberOfPages="25" publishingHouse="Питер"
+                      yearOfPublishing="2014" authors="test15"/>
+
+                <magazine title="sax fashion" numberOfPages="152" publishingHouse="АСТ"
+                          yearOfPublishing="2020" chiefEditors="test editor"/>
+
+            </publications>
+
+        </region>
+    </regions>
+</country>

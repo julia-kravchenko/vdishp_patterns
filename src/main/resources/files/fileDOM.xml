@@ -1,0 +1,13 @@
+<publications>
+    <book id="1" title="test book" numberOfPages="120" publishingHouse="Питер"
+          yearOfPublishing="1960" authors="Julia"/>
+
+    <magazine id="2" title="magazine fashion" numberOfPages="30" publishingHouse="АСТ"
+              yearOfPublishing="1975" chiefEditors="test"/>
+
+    <book id="3" title="test book2" numberOfPages="1520" publishingHouse="Питер"
+          yearOfPublishing="2000" authors="Natalia"/>
+
+    <magazine id="4" title="test magazine" numberOfPages="45" publishingHouse="Питер"
+              yearOfPublishing="2012" chiefEditors="Roberts"/>
+</publications>
